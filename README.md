@@ -1,6 +1,6 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# Real estate app
 
 A brief description of what this project does and who it's for
 
@@ -12,19 +12,19 @@ Insert gif or link to demo, or video
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Name [poojamothi]
+2. Name [Devikaa-D]
 Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
 
   
-## Tech Stack
+## Flutter
 
 Eg: Flutter, Python, Html, CSS, JavaScript
 
   
 ## Working of the project
 
-1. Explaining the working of project
+1. 
 2. Embed video of project demo
 
   
