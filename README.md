@@ -24,8 +24,8 @@ Eg: Flutter, Python, Html, CSS, JavaScript
   
 ## Working of the project
 
-1. "Use friendly real estate app where both buyers and sellers are able to signup and login.
-    "buyers are able to mark his\her interest on a home.
+1. "User friendly real estate app where both buyers and sellers are able to signup and login.
+    "Buyers are able to mark his\her interest on a home.
 2. https://drive.google.com/file/d/1AHgKumDCvk2rmQhpPgu_L7cH6ELbCZXQ/view?usp=sharing
 
   
