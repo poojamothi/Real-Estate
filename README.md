@@ -1,8 +1,8 @@
 <img src="banner/banner.gif" width="100%" height="">
 
 # Real estate app
-
-A brief description of what this project does and who it's for
+This is a real estate app build using flutter.Both sellers and buyers could use this app for sharing the property for sale and for purchasing
+property on their intrests respectively.buyers can also show their interest by liking or unliking the property.Also one could make login and signup in the app.Although this app has its own merits as well as demerits
 
 
 ## Demo + Video
