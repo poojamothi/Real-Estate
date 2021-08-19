@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for
 
 ## Demo + Video
 
-Insert gif or link to demo, or video
+https://drive.google.com/file/d/1AHgKumDCvk2rmQhpPgu_L7cH6ELbCZXQ/view?usp=sharing
 [link to video]
 
   
@@ -24,15 +24,15 @@ Eg: Flutter, Python, Html, CSS, JavaScript
   
 ## Working of the project
 
-1. 
-2. Embed video of project demo
+1. "Use friendly real estate app where both buyers and sellers are able to signup and login.
+    "buyers are able to mark his\her interest on a home.
+2. https://drive.google.com/file/d/1AHgKumDCvk2rmQhpPgu_L7cH6ELbCZXQ/view?usp=sharing
 
   
 ## Features
-Examples:
-- Cool Animations
-- Responsive
-- Cross platform
+User friendly
+cool appearence
+easy account creation and signup
 
   
 ## Run Locally
